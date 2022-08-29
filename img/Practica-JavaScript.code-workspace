@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "Practica-JavaScript",
+			"path": "E:\\GIT HUB\\Practica Restaurante\\Practica-JavaScript"
+		},
+		{
+			"name": "css",
+			"path": "..\\css"
+		},
+		{
+			"name": "fonts",
+			"path": "..\\fonts"
+		},
+		{
+			"name": "img",
+			"path": "."
+		},
+		{
+			"name": "js",
+			"path": "..\\js"
+		},
+		{
+			"name": ".vscode",
+			"path": "..\\.vscode"
+		}
+	],
+	"settings": {}
+}
